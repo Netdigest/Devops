@@ -1,2 +1,2 @@
 # Devops
- This Repo encompasses some routine and daily DevOps Projects and Practices.
+ This is a code that can execute a command for -n times till it gets a successful result.
