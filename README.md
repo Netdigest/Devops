@@ -1,2 +1,2 @@
 # Devops
- Some Daily Scripts for DevOps Mindset
+ This Repo encompasses some routine and daily DevOps Projects and Practices.
